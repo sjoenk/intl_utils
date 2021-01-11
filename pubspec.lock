@@ -144,9 +144,11 @@ packages:
   intl_translation:
     dependency: "direct main"
     description:
-      name: intl_translation
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
+      resolved-ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
+      url: "git://github.com/sjoenk/intl_translation.git"
+    source: git
     version: "0.17.10+1"
   io:
     dependency: transitive

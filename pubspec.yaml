@@ -9,7 +9,10 @@ environment:
 dependencies:
   args: '>=0.12.1 <2.0.0'
   archive: ^2.0.13
-  intl_translation: 0.17.10+1
+  intl_translation:
+    git:
+      url: git://github.com/sjoenk/intl_translation.git
+      ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
   http: ^0.12.2
   path: ^1.7.0
   petitparser: ^3.1.0
