@@ -57,6 +57,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.0"
+  clock:
+    dependency: transitive
+    description:
+      name: clock
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.1.0-nullsafety.3"
   collection:
     dependency: transitive
     description:
@@ -140,13 +147,13 @@ packages:
       name: intl
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.16.1"
+    version: "0.17.0-nullsafety.2"
   intl_translation:
     dependency: "direct main"
     description:
       path: "."
-      ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
-      resolved-ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
+      ref: "2e096f7b951b5e79865cc2a64b5b082bc9be16e1"
+      resolved-ref: "2e096f7b951b5e79865cc2a64b5b082bc9be16e1"
       url: "git://github.com/sjoenk/intl_translation.git"
     source: git
     version: "0.17.10+1"
@@ -233,7 +240,7 @@ packages:
       name: path
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.7.0"
+    version: "1.8.0-nullsafety.3"
   pedantic:
     dependency: "direct dev"
     description:
@@ -403,4 +410,4 @@ packages:
     source: hosted
     version: "2.2.1"
 sdks:
-  dart: ">=2.7.0 <3.0.0"
+  dart: ">=2.12.0-0 <3.0.0"

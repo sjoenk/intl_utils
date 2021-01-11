@@ -12,7 +12,7 @@ dependencies:
   intl_translation:
     git:
       url: git://github.com/sjoenk/intl_translation.git
-      ref: fdea37847b80bf96e6dc42eeabf92ca27b30c52a
+      ref: 2e096f7b951b5e79865cc2a64b5b082bc9be16e1
   http: ^0.12.2
   path: ^1.7.0
   petitparser: ^3.1.0
